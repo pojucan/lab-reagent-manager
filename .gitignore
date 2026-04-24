@@ -1,0 +1,5 @@
+# Diretórios
+data/*
+!data/sample_reagents.xlsx
+notes/
+.venv/
