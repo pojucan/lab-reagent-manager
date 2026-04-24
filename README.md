@@ -24,7 +24,7 @@ lab-reagent-manager/
 ├── src/
 │   └── app.py
 │
-├── data/
+├── data/input
 │   └── sample_reagents.xlsx
 │
 ├── .gitignore
@@ -79,7 +79,7 @@ python3 src/app.py
 Um conjunto de dados de exemplo está disponível em:
 
 ```
-data/sample_reagents.xlsx
+data/input/sample_reagents.xlsx
 ```
 
 Utilize-o para testar a aplicação.
